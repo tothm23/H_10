@@ -1,2 +1,2 @@
-# H_10
+# OsosztalyDolgozat
 Netbeansproject and excercise in Java

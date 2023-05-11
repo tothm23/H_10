@@ -1,4 +1,4 @@
-package h10_dolgozat_tothmilan;
+package dolgozat_tothmilan;
 
 /**
  *
